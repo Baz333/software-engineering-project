@@ -11,3 +11,5 @@ kramdown:
   syntax_highlighter: rouge
 plugins:
 - jekyll-remote-theme
+title: Software Engineering Project
+description: Project page for Software Engineering Practice by Liam Flynn, Daniel Lizura, Radvydas Mikalauskas, and Barry Nolan
