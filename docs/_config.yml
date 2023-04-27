@@ -4,6 +4,7 @@ source: https://github.com/Baz333/software-engineering-project
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+layout: default
 incremental: false
 highlighter: rouge
 gist:
