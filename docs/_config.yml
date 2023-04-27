@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 source: https://github.com/Baz333/software-engineering-project
+remote_theme: pages-themes/slate@v0.2.0
 incremental: false
 highlighter: rouge
 gist:
@@ -8,3 +9,5 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+plugins:
+- jekyll-remote-theme
